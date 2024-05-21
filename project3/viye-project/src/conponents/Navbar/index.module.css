@@ -1,0 +1,22 @@
+.nav{
+    width: 100%;
+    position: fixed;
+    z-index: 9999;
+ color: white;
+    
+ }
+ .container{
+     width: 65%;
+     display: flex;
+     justify-content: space-between;
+     margin: 10px auto
+ }
+ .link{
+     color:white;
+      font-weight: 500;
+      font-size: larger;
+     text-decoration: none;
+ }
+ button{
+    margin-top: 35px;
+ }

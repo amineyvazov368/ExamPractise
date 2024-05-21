@@ -1,0 +1,88 @@
+.allContainer{
+    width: 65%;
+    margin: auto;
+}
+
+.welcome{
+    width: 100%;
+    background-image: url(https://preview.colorlib.com/theme/eatwell/images/bg_3.jpg);
+    padding-top:270px ;
+    padding-bottom: 270px;
+}
+.welcomeTitle{
+    width: 40%;
+    margin: auto;
+  color:  white;
+  text-align: center;
+}
+.welcomeTitle h1{
+    font-size: 70px;
+}
+.welcomeTitle p{
+    font-size: 25px;
+}
+.welcomeTitle button{
+    padding: 0px 40px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+}
+.welcomeTitle button:hover{
+    background-color: white;
+    color: black;
+}
+.story{
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+}
+.row{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.img{
+    width: 150%;
+    border: 1px solid red;
+    margin-left: -100px;
+    
+}
+.img img{
+    width: 100%;
+}
+.storyInfo{
+    width: 60%;
+}
+.storyInfo h1{
+    font-size: 60px;
+    margin-top: 0px;
+}
+.storyInfo p{
+  font-size: larger; 
+  color: grey; 
+}
+.storyInfo button{
+    padding: 0px 38px;
+    
+}
+.storyInfo button:hover{
+    background-color: orange;
+    color:  white;
+}
+.products{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: rgb(250, 247, 247);
+}
+.productsTitle{
+    width: 35%;
+    margin: 15px auto;
+    text-align: center;
+}
+.productsTitle h1{
+    font-size: 60px;
+    margin-top: 0px;
+}
+.productsTitle p{
+    font-size: larger;
+}
